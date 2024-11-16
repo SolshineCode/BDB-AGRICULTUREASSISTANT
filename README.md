@@ -44,3 +44,10 @@ This project aligns perfectly with the Backdrop Build Hackathon's goals by promo
 **Next Steps:**
 
 The project will require expertise in mobile app development, efficient AI model compression techniques, and agricultural data curation. By collaborating with relevant experts and leveraging the Backdrop Build Hackathon resources, Tiny Llama Farmer has the potential to bring transformative agricultural assistance directly into the hands of off-grid farmers. 
+
+**Post Hackathon Notes**
+Please see, on the Copyleft Cultivars Hugging Face Hub, the releases which followed up this project:
+https://huggingface.co/CopyleftCultivars
+
+And especially to this model:
+https://huggingface.co/CopyleftCultivars/llama-3.1-natural-farmer-Q8_0-GGUF
